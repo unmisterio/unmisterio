@@ -1,0 +1,39 @@
+
+ .dropdown-btn {
+
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    border-top: 1px solid rgba(255,255,255,.1);
+    border-bottom: 1px solid rgba(255,255,255,.1);
+    border-right: none;
+    border-left: none;
+    background-color: #262626;
+    font-size: 16px;
+    color: white;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .sub{
+    font-size: 14px;
+  }
+
+  .dropdown-btn:hover{
+    text-decoration: none;
+    background-color: rgba(255,255,255,.1);
+    border-color: transparent;
+  }
+  .dropdown-container {
+    display: none;
+    background-color: #262626;
+    padding-left: 8px;
+  }
+ 
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }

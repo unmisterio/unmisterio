@@ -1,0 +1,11 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Misterio
+description:         'Proyecto llevado a cabo en Ingenieria de Software II'
+baseurl:             '/ingesoft2'
+paginate:            5
+
