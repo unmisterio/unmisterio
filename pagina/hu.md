@@ -3,4 +3,4 @@ layout: page
 title: Historias de Usuario
 ---
 
-Esto es un ejemplo
+<img src="{{site.baseurl}}/public/HU.png">
