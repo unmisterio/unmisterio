@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Misterio</title>
- <link href="http://localhost:4000/ingesoft2/atom.xml" rel="self"/>
- <link href="http://localhost:4000/ingesoft2/"/>
- <updated>2019-04-20T19:46:59-05:00</updated>
+ <link href="http://localhost:4000/unmisterio/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/unmisterio/"/>
+ <updated>2019-04-23T19:25:41-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>

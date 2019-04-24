@@ -21,4 +21,4 @@ Mediante el uso de software buscamos agilizar el proceso anteriormente mencionad
 Este es el proceso como actualmente se lleva la postulacion para la realizacion de movilidad saliente(intercambio) por parte de los estudiantes de la Universidad Nacional de Colombia, mediante la aplicacion que vamos desarrollar buscamos que dicho proceso se pueda automatizar ya que en el modelo actual existen pasos(actividades) que pueden ser realizados de manera virtual.
 <br>
 <br>
-<img src="/ingesoft2/public/Proceso.png">
+<img src="{{site.baseurl}}/public/Proceso.png">
