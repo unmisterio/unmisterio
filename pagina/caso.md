@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Caso
+title: Caso de Uso
 ---
 
-<embed src="{{site.baseurl}}/public/Casoduso.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="{{site.baseurl}}/public/Caso.pdf" type="application/pdf" width="100%" height="600px" />
