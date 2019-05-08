@@ -11,43 +11,43 @@ title: Miembros
   </tr>
   <tr>
     <td>Camilo Andres Rico Echeverry</td>
-    <td>Product Owner</td>
+    <td>Product Owner & Front-End Developer</td>
   </tr>
   <tr>
     <td>Katherine Viviana Sierra Briñez</td>
-    <td>Scrum Master</td>
+    <td>Scrum Master & Front-End Developer</td>
   </tr>
   <tr>
     <td>Ronald Sarmiento</td>
-    <td>Arquitecture Owner</td>
+    <td>Arquitecture Owner & Back-End Developer</td>
   </tr>
   <tr>
     <td>Andrés Fernando Román Arévalo</td>
-    <td>Team Memberr</td>
+    <td>Full-Stack Developer enfocado en Front</td>
   </tr>
   <tr>
     <td>Juan Sebastian Narvaez Beltran</td>
-    <td>Team Member</td>
+    <td>Back-End Developer</td>
   </tr>
   <tr>
     <td>Julian David Diaz Cifuentes</td>
-    <td>Team Member</td>
+    <td>Back-End Developer</td>
   </tr>
   <tr>
     <td>Camilo Alfonso Mosquera Benavides</td>
-    <td>Team Member</td>
+    <td>Front-End Developer</td>
   </tr>
   <tr>
     <td>Gustavo Galvez Bello</td>
-    <td>Team Member</td>
+    <td>Front-End Developer</td>
   </tr>
   <tr>
     <td>Nicolas Felipe Gavilan Sobogal</td>
-    <td>Team Member</td>
+    <td>Front-End Developer</td>
   </tr>
   <tr>
     <td>Jose Daniel Suarez Jurado</td>
-    <td>Team Member</td>
+    <td>Back-End Developer</td>
   </tr>
 
 </table> 
