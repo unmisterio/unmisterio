@@ -34,7 +34,8 @@ title: Casos de Uso
         document.getElementById("rolesBtn").onclick = function() {
         document.getElementById('ifDrive').src = "https://docs.google.com/document/d/e/2PACX-1vQR79tvd2bLu_DyZgtRqltEtazR7qetUtW5HG-pTCMqJRbr_0mO1oR-xkeAWA2Nb-gU9hlqkDQFZsLK/pub?embedded=true";
         document.getElementById('ifDrive').contentWindow.location.reload();
-        }
+        console.log("hola");
+        };
     </script>
     <embed id="cambio" src="{{site.baseurl}}/public/aplicar.pdf" type="application/pdf" width="100%" height="600px" />
     <iframe id="ifDrive" src="" ></iframe>
